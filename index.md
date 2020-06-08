@@ -4,9 +4,6 @@
 	alt="Profile photo" 
 	style="width: 200px; height:200px" />
 
-
-I’m a software engineer, focusing on IoT product development.
-
 I started my iOS development career development student on the open Classrooms platform, working on various projects as: 
 
 - [Instagrid](https://github.com/ClaireRimel/Projet-4-Instagrid) - App to share collage of pictures
