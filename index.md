@@ -1,6 +1,8 @@
+<p align="center">
 <img src="./img/IMG_7816.jpeg" 
 	alt="Profile photo" 
 	style="width: 200px; height:220px" />
+</p>
 
 👋 Hi, I’m **Claire**, a **software developer specialized in iOS development**, passionate about crafting meaningful, high-quality user experiences across Apple platforms.
 
@@ -48,23 +50,29 @@ One key project was **Cupo Express**, a donation app built with Swift 5 and Clea
 
 ---
 
+## 🎤 Speaking
+
+-  **“Focus Pocus”** - Focus API on Apple TV - **CocoaHeads Nantes** - [Watch on YouTube](https://www.youtube.com/watch?v=9p_q0EFP61s)  
+
+---
+
 ## 🧩 Side Projects
 
-- [**Peticle**](https://github.com/ClaireRimel/Peticle) — Personal project exploring **SwiftUI**, **App Intents**, and modern iOS architecture patterns  
-- [**UFConvertor**](https://apps.apple.com/fr/app/ufconvertor/id1517422326) — iOS app fetching daily UF currency data and displaying it with Charts  
-- [**Say Their Names**](https://apps.apple.com/fr/app/say-their-names/id1517599626?l=en) — Contributed French localizations to this open-source project  
+- [**Peticle**](https://github.com/ClaireRimel/Peticle) - Personal project exploring **SwiftUI**, **App Intents**, and modern iOS architecture patterns  
+- [**UFConvertor**](https://apps.apple.com/fr/app/ufconvertor/id1517422326) - iOS app fetching daily UF currency data and displaying it with Charts  
+- [**Say Their Names**](https://apps.apple.com/fr/app/say-their-names/id1517599626?l=en) - Contributed French localizations to this open-source project  
 - Earlier training apps:  
-  - [Instagrid](https://github.com/ClaireRimel/Projet-4-Instagrid) – Share photo collages  
-  - [CountOnMe](https://github.com/ClaireRimel/Projet-5-CountOnMe) – Simple calculator  
-  - [Le Baluchon](https://github.com/ClaireRimel/Projet-9-Realisez-une-application-de-voyage) – Travel utilities (translator, converter, weather)  
-  - [Reciplease](https://github.com/ClaireRimel/Projet-10-Reciplease) – Recipe finder based on available ingredients  
+  - [Instagrid](https://github.com/ClaireRimel/Projet-4-Instagrid) - Share photo collages  
+  - [CountOnMe](https://github.com/ClaireRimel/Projet-5-CountOnMe) - Simple calculator  
+  - [Le Baluchon](https://github.com/ClaireRimel/Projet-9-Realisez-une-application-de-voyage) - Travel utilities (translator, converter, weather)  
+  - [Reciplease](https://github.com/ClaireRimel/Projet-10-Reciplease) - Recipe finder based on available ingredients  
 
 ---
 
 ## 💬 Community & Involvement
 
-- 🎤 Co-organizer at [**MiM – Mobilis in Mobile**](https://mobilis-in-mobile.io) — a conference dedicated to mobile development and technology  
-- 🍏 Co-organizer at [**CocoaHeads Nantes**](https://www.meetup.com/fr-FR/cocoaheads-nantes/) — the local iOS/macOS developer community meetup  
+- 🎤 Co-organizer at [**MiM – Mobilis in Mobile**](https://mobilis-in-mobile.io) - a conference dedicated to mobile development and technology  
+- 🍏 Co-organizer at [**CocoaHeads Nantes**](https://www.meetup.com/fr-FR/cocoaheads-nantes/) - the local iOS/macOS developer community meetup  
 
 ---
 
