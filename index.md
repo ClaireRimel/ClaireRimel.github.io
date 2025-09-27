@@ -10,7 +10,7 @@
 
 ## 💼 Professional Journey
 
-### **Deezer** (2024 – Present)  
+### **Deezer** (2023 – Present)  
 **iOS Developer – Partnership Integration Team**  
 [deezer.com](https://www.deezer.com)
 
@@ -26,7 +26,7 @@ My work includes:
 
 ---
 
-### **Kiplin** (2021 – 2024)  
+### **Kiplin** (2021 – 2023)  
 **iOS Developer – Mobile Team**  
 [kiplin.com](https://www.kiplin.com)
 
@@ -42,7 +42,7 @@ This experience strengthened my expertise in **HealthKit**, wearable integration
 
 ---
 
-### **Trigo Technologies** (2019 – 2021)  
+### **Trigo Technologies** (2020)  
 **iOS Developer**
 
 At Trigo, I contributed to internal and client projects in a fully remote, multicultural environment.  
