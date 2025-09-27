@@ -3,25 +3,75 @@
 <img src="./img/Profil-Picture.JPG" 
 	alt="Profile photo" 
 	style="width: 200px; height:200px" />
-	
-	
-I’m a software developer specialised in iOS development. 
 
-Following a career change from sales/marketing, I started my software developer career in 2018 by taking a one-year iOS development course at OpenClassrooms (online platform). My studies covered iOS and computer science topics, as learning about the Swift language fundamentals, OOP, POP, MVC architecture, UML, REST APIs and unit testing, taking the knowledge to practice by building several training iOS apps, using Git for version control and GitHub, where all their repositories are publicly available.
+👋 Hi, I’m **Claire**, a **software developer specialized in iOS development** — passionate about crafting meaningful, high-quality user experiences across Apple platforms.
 
+---
 
-- [Instagrid](https://github.com/ClaireRimel/Projet-4-Instagrid) - App to share collage of pictures
-- [ContOnMe](https://github.com/ClaireRimel/Projet-5-CountOnMe) - Simple calculator
-- [Le Baluchon](https://github.com/ClaireRimel/Projet-9-Realisez-une-application-de-voyage) - Provide to travelers some features like a translator, convert and weather
-- [Reciplease](https://github.com/ClaireRimel/Projet-10-Reciplease) - Help you to find receipes depending of which ingredients you have 
+## 💼 Professional Journey
 
+### **Deezer** (2024 – Present)  
+**iOS Developer – Partnership Integration Team**  
+[deezer.com](https://www.deezer.com)
 
-Today, I’m part of the iOS team at Trigo Technologies, a software development company which builds internal projects and does client work.
+At Deezer, I contribute to the development and optimization of Deezer’s ecosystem across **iOS, watchOS, tvOS, and CarPlay**, as well as **Google Cast**.
 
-While always appreciating having international experiences, I’ve had to face the double challenge of being immerse in a multicultural and Spanish speaking working environment, as well as being part of a fully remote and distributed team, having colleagues from Caracas, Moscow, Paris and Santiago de Chile.
+My work includes:  
+- Developing and maintaining companion experiences for Deezer on Apple devices  
+- Working on the **Deezer SDK**, enabling seamless integration for partner applications  
+- Tackling technical challenges to improve performance, scalability, and API integrations  
 
-At Trigo Technologies, I’m currently contributing to the development of the Cupo Express iOS application, which is written in Swift 5 based on Clean architecture. Cupo Express is a web/mobile application which allows users to make money donations to both particulars and non-profit organisations by using Transbank’s OnePay platform, one of the main chilean online payment services. App features include managing a users accounts system for both web and mobile, allowing also offline usage (by using CoreData for local data storage) and push notification reception (by using the Firebase SDK). A unit test suite has been written using the native XCTest framework.
+**Tech Stack:** Swift, SwiftUI, Combine, AVFoundation  
+**Workflow:** GitHub, GitFlow, Jira, Confluence, Agile/Scrum
 
-My side projects cover the development of the iOS application UFConvertor, which is available on the AppStore (https://apps.apple.com/fr/app/ufconvertor/id1517422326). It fetches the daily UF currency value using a public REST API, data which is displayed in both the iOS app and a Today Extension using Charts, an open source framework for data visualisation display. I chose CocoaPods as the dependency manager. I also contributed to the open source project Say Their Names (https://apps.apple.com/fr/app/say-their-names/id1517599626?l=en) by adding French localisations to the iOS application. 
+---
 
-Take a look at my [GitHub account](https://github.com/ClaireRimel), follow me on [Twitter](https://twitter.com/Claire_Rimel) or feel free to contact me via [email](mailto:sivadiercl@gmail.com).
+### **Kiplin** (2021 – 2024)  
+**iOS Developer – Mobile Team**  
+[kiplin.com](https://www.kiplin.com)
+
+Kiplin’s mission is to motivate users to increase daily physical activity through **gamification** and connected health data.  
+I worked on both the main app and **Companion**, a certified **Medical Device** service.
+
+**Key contributions:**  
+- Developed new services and improved app architecture for scalability and maintainability  
+- Built and maintained *Companion*, ensuring compliance with medical standards  
+- Collaborated with cross-functional teams to enhance data synchronization and engagement features  
+
+This experience strengthened my expertise in **HealthKit**, wearable integrations (Fitbit, Garmin, Withings), and health-focused app development.
+
+---
+
+### **Trigo Technologies** (2019 – 2021)  
+**iOS Developer**
+
+At Trigo, I contributed to internal and client projects in a fully remote, multicultural environment.  
+One key project was **Cupo Express**, a donation app built with Swift 5 and Clean architecture, integrating **Transbank’s OnePay**, **Firebase**, and **CoreData** for offline usage.
+
+---
+
+## 🧩 Side Projects
+
+- [**Peticle**](https://github.com/ClaireRimel/Peticle) — Personal project exploring **SwiftUI**, **App Intents**, and modern iOS architecture patterns  
+- [**UFConvertor**](https://apps.apple.com/fr/app/ufconvertor/id1517422326) — iOS app fetching daily UF currency data and displaying it with Charts  
+- [**Say Their Names**](https://apps.apple.com/fr/app/say-their-names/id1517599626?l=en) — Contributed French localizations to this open-source project  
+- Earlier training apps:  
+  - [Instagrid](https://github.com/ClaireRimel/Projet-4-Instagrid) – Share photo collages  
+  - [CountOnMe](https://github.com/ClaireRimel/Projet-5-CountOnMe) – Simple calculator  
+  - [Le Baluchon](https://github.com/ClaireRimel/Projet-9-Realisez-une-application-de-voyage) – Travel utilities (translator, converter, weather)  
+  - [Reciplease](https://github.com/ClaireRimel/Projet-10-Reciplease) – Recipe finder based on available ingredients  
+
+---
+
+## 💬 Community & Involvement
+
+- 🎤 Organizer at [**MiM – Mobilis in Mobile**](https://mobilis-in-mobile.io) — a conference dedicated to mobile development and technology  
+- 🍏 Organizer at [**CocoaHeads Nantes**](https://www.meetup.com/fr-FR/cocoaheads-nantes/) — the local iOS/macOS developer community meetup  
+
+---
+
+## 🌐 Connect
+
+- [GitHub](https://github.com/ClaireRimel)  
+- [Twitter](https://twitter.com/Claire_Rimel)  
+- [Email](mailto:office@clairesivadier.com)
