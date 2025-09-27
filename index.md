@@ -1,5 +1,3 @@
-# Claire Sivadier
-
 <img src="./img/Profil-Picture.JPG" 
 	alt="Profile photo" 
 	style="width: 200px; height:200px" />
