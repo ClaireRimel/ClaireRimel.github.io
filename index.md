@@ -1,4 +1,4 @@
-<img src="./img/Profil-Picture.JPG" 
+<img src="./img/IMG_7816.jpeg" 
 	alt="Profile photo" 
 	style="width: 200px; height:200px" />
 
@@ -63,8 +63,8 @@ One key project was **Cupo Express**, a donation app built with Swift 5 and Clea
 
 ## 💬 Community & Involvement
 
-- 🎤 Organizer at [**MiM – Mobilis in Mobile**](https://mobilis-in-mobile.io) — a conference dedicated to mobile development and technology  
-- 🍏 Organizer at [**CocoaHeads Nantes**](https://www.meetup.com/fr-FR/cocoaheads-nantes/) — the local iOS/macOS developer community meetup  
+- 🎤 Co-organizer at [**MiM – Mobilis in Mobile**](https://mobilis-in-mobile.io) — a conference dedicated to mobile development and technology  
+- 🍏 Co-organizer at [**CocoaHeads Nantes**](https://www.meetup.com/fr-FR/cocoaheads-nantes/) — the local iOS/macOS developer community meetup  
 
 ---
 
