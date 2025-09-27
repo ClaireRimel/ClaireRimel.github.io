@@ -1,3 +1,18 @@
-theme: jekyll-theme-slate
-title: Claire Sivadier
-description: iOS developer
+# _config.yml
+title: "Claire Sivadier"
+description: "iOS Developer • Swift • Community builder"
+theme: jekyll-theme-cayman 
+
+# Optional nice-to-haves
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Social (used by some themes / SEO)
+github_username: ClaireRimel
+twitter_username: Claire_Rimel
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
