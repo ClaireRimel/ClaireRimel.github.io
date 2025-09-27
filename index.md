@@ -2,7 +2,7 @@
 	alt="Profile photo" 
 	style="width: 200px; height:220px" />
 
-👋 Hi, I’m **Claire**, a **software developer specialized in iOS development** — passionate about crafting meaningful, high-quality user experiences across Apple platforms.
+👋 Hi, I’m **Claire**, a **software developer specialized in iOS development**, passionate about crafting meaningful, high-quality user experiences across Apple platforms.
 
 ---
 
