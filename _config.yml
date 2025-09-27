@@ -1,7 +1,7 @@
 # _config.yml
 title: "Claire Sivadier"
 description: "iOS Developer"
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-primer
 
 # Optional nice-to-haves
 plugins:
