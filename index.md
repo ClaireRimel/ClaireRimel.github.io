@@ -1,6 +1,6 @@
 <img src="./img/IMG_7816.jpeg" 
 	alt="Profile photo" 
-	style="width: 200px; height:200px" />
+	style="width: 200px; height:220px" />
 
 👋 Hi, I’m **Claire**, a **software developer specialized in iOS development** — passionate about crafting meaningful, high-quality user experiences across Apple platforms.
 
